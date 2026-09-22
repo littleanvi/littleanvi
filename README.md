@@ -1,16 +1,37 @@
-## Hi there 👋
+Hi, I'm Anvi! 🌷
 
-<!--
-**littleanvi/littleanvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my little corner of GitHub.
 
-Here are some ideas to get you started:
+I'm a Forensic Science student exploring the world of technology, with a growing interest in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐍 Python & Full Stack Development
+- 🔐 Cybersecurity
+- 🔬 Forensic Science
+- 🕵️ Digital Forensics
+
+🌱 Currently Learning
+
+- Python
+- Django
+- JavaScript
+- Networking & Cybersecurity
+- Kali Linux
+- Digital Forensics
+
+ 💻 What I'm Building
+
+I'm learning by creating small projects, practical labs, and research projects while documenting my journey along the way.
+
+🔬 My Interests
+
+Forensic Science × Cybersecurity × Technology
+
+I’m especially interested in how technology can support investigation, digital evidence analysis, and cybersecurity.
+
+ 📚 My Learning Philosophy
+
+> Learn → Practice → Make mistakes → Understand → Build → Repeat.
+
+---
+
+✨ Thanks for visiting my profile!
